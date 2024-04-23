@@ -4,4 +4,4 @@ Here, the neural network simulation from the manuscript "Printing Polyaniline ba
 
 All questions on the neural network simulation and obtained results may be directed to Anna Matsukatova (an.matcukatova@physics.msu.ru). 
 
-Please, add references to the article if you use this code or any of the obtained results.
+Please, add references to the article if you use this code or refer to any of the obtained results.
